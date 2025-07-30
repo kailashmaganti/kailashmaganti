@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm kailash
 
-<!--
-**kailashmaganti/kailashmaganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 1st-year student.  
+🚀 Currently working on: **AutoPersona – Your AI-powered Digital Persona Builder**  
+🛠️ Learning GitHub, Python, and building unique projects.
 
-Here are some ideas to get you started:
+## 🌟 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AutoPersona – Build Your Digital Identity  
+
+Built with Python, Flask 
+
+[👉 View Project Repo](https://github.com/kailashmaganti/AutoPersona)
+
+
+📫 Reach me at: [LinkedIn link]  (https://www.linkedin.com/in/kailash-m-747562373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
